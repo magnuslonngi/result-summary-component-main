@@ -60,4 +60,4 @@ I'd like to continue practicing CSS Grid, never used CSS Grid before and I love 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@magnuslonngi](https://www.frontendmentor.io/profile/magnuslonngi)
