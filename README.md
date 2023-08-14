@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-summary-component-css-grid-css-flexbox-MsXRTCi3Bc)
-- Live Site URL: (https://magnuslonngi.github.io/result-summary-component-main/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-summary-component-css-grid-css-flexbox-MsXRTCi3Bc)
+- [Live Site URL](https://magnuslonngi.github.io/result-summary-component-main/)
 
 ## My process
 
