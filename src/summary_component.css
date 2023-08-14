@@ -10,7 +10,11 @@
 	grid-template-columns: 100%;
 	justify-items: center;
 	align-items: center;
-	background: linear-gradient(0deg, var(--light-royal-blue) 0%, var(--light-slate-blue) 100%);
+	background: linear-gradient(
+		0deg,
+		var(--light-royal-blue) 0%,
+		var(--light-slate-blue) 100%
+	);
 	border-radius: 0 0 2.5rem 2.5rem;
 }
 
@@ -23,7 +27,11 @@
 .summary_numbers {
 	width: 14rem;
 	height: 14rem;
-	background: linear-gradient(0deg, var(--persian-blue) 0%, var(--violet-blue) 100%);
+	background: linear-gradient(
+		0deg,
+		var(--persian-blue) 0%,
+		var(--violet-blue) 100%
+	);
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
@@ -82,7 +90,7 @@
 	height: 100%;
 	margin-top: -2.5rem;
 	align-items: center;
-	background-color: #FAFAFA;
+	background-color: #fafafa;
 	border-radius: 1.2rem;
 	padding: 0 2rem 0 2rem;
 }
@@ -137,7 +145,7 @@
 .summary_detail_score {
 	font-size: 1.6rem;
 	font-weight: 700;
-	color: rgb(169,169,169);
+	color: rgb(169, 169, 169);
 }
 
 .summary_detail_score span {
@@ -157,7 +165,11 @@
 }
 
 .summary_button:hover {
-	background: linear-gradient(0deg, var(--light-royal-blue) 0%, var(--light-slate-blue) 100%);
+	background: linear-gradient(
+		0deg,
+		var(--light-royal-blue) 0%,
+		var(--light-slate-blue) 100%
+	);
 }
 
 .summary_button p {
